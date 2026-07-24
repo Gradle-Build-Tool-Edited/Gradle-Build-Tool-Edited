@@ -5,12 +5,13 @@
 
 ## Overview
 
-**Gradle Build Tool** is a powerful Android application that allows you to build, compile, and manage Gradle projects directly on your Android device. It is designed for developers who want a portable development environment without requiring a desktop computer.
+**Gradle Build Tool** is a powerful Android application that allows you to build, compile, and manage projects written in **multiple programming languages** directly on your Android device. It supports Gradle-based projects and provides a portable development environment without requiring a desktop computer.
 
 ## Features
 
-- 🚀 Build Gradle projects directly on Android
-- 📦 Support for Java and Android Gradle projects
+- 🚀 Build and compile projects directly on Android
+- 🌐 Supports multiple programming languages (Java, Kotlin, Groovy, C/C++, Python, Flutter, React Native, and more through Gradle)
+- 📦 Full Gradle project support
 - ⚙️ Execute custom Gradle commands
 - 📋 Real-time build logs and error reporting
 - 💻 Integrated terminal
@@ -18,7 +19,7 @@
 - 🛠 SDK and environment configuration
 - 📚 Dependency download and management
 - 🌙 Modern UI with Dark Mode
-- ⚡ Fast and lightweight performance
+- ⚡ Fast, lightweight, and optimized performance
 
 ## Requirements
 
@@ -37,7 +38,7 @@
 
 ## Disclaimer
 
-This project is intended for educational and development purposes. Gradle, Java, Android SDK, and related trademarks belong to their respective owners.
+This project is intended for educational and development purposes. Gradle and related trademarks belong to their respective owners.
 
 </details>
 
@@ -48,12 +49,13 @@ This project is intended for educational and development purposes. Gradle, Java,
 
 ## معرفی
 
-**Gradle Build Tool** یک برنامه قدرتمند اندرویدی است که به شما امکان می‌دهد پروژه‌های مبتنی بر Gradle را مستقیماً روی گوشی یا تبلت اندرویدی خود مدیریت، کامپایل و Build کنید.
+**Gradle Build Tool** یک برنامه قدرتمند اندرویدی است که به شما امکان می‌دهد پروژه‌های مبتنی بر **زبان‌های برنامه‌نویسی مختلف** را مستقیماً روی گوشی یا تبلت اندرویدی خود مدیریت، کامپایل و Build کنید. این برنامه از پروژه‌های مبتنی بر Gradle پشتیبانی کرده و محیطی کامل برای توسعه نرم‌افزار روی اندروید فراهم می‌کند.
 
 ## امکانات
 
-- 🚀 ساخت و کامپایل پروژه‌های Gradle
-- 📦 پشتیبانی از پروژه‌های Java و Android
+- 🚀 ساخت و کامپایل پروژه‌ها روی اندروید
+- 🌐 پشتیبانی از زبان‌های مختلف مانند Java، Kotlin، Groovy، C/C++، Python، Flutter، React Native و سایر پروژه‌های مبتنی بر Gradle
+- 📦 پشتیبانی کامل از پروژه‌های Gradle
 - ⚙️ اجرای دستورات سفارشی Gradle
 - 📋 نمایش لحظه‌ای لاگ‌ها و خطاهای Build
 - 💻 ترمینال داخلی
@@ -80,6 +82,6 @@ This project is intended for educational and development purposes. Gradle, Java,
 
 ## سلب مسئولیت
 
-این پروژه برای اهداف آموزشی و توسعه نرم‌افزار ارائه شده است. نام‌ها و علائم تجاری Gradle، Java و Android SDK متعلق به صاحبان اصلی آن‌ها هستند.
+این پروژه برای اهداف آموزشی و توسعه نرم‌افزار ارائه شده است. نام‌ها و علائم تجاری Gradle و سایر فناوری‌های مرتبط متعلق به صاحبان اصلی آن‌ها هستند.
 
 </details>
