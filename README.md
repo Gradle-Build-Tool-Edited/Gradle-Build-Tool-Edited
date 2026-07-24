@@ -1,4 +1,4 @@
-# jstudio
+# jstudio Edited
 
 <details open>
 <summary><strong>🇬🇧 English</strong></summary>
