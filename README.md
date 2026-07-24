@@ -1,13 +1,5 @@
 # Gradle Build Tool Edited
 
-
-
-
-
-
-
-# Gradle Build Tool
-
 <details open>
 <summary><strong>🇬🇧 English</strong></summary>
 
