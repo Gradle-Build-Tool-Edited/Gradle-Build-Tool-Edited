@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> |
+  <a href="README_FA.md">🇮🇷 فارسی</a>
+</p>
+
 # jstudio Edited
 
 <details open>
@@ -32,40 +37,29 @@
 
 ---
 
-<details>
-<summary><strong>🇮🇷 فارسی</strong></summary>
-
 ## 🚀 تغییرات نسخه ۱.۰
 
 ### 🔧 ارتقاهای اصلی
-- **Java Runtime** از نسخه **۲۱** به **۲۵** ارتقا یافت.
-- **Gradle** از نسخه `9.3.2` به `9.7.0-rc-1` ارتقا یافت.
+- **محیط اجرای جاوا (Java Runtime):** ارتقا از Java 21 به **Java 25**.
+- **نسخه Gradle:** به‌روزرسانی از `9.3.2` به `9.7.0-rc-1`.
 
-### ✨ قابلیت‌ها و بهبودهای جدید
-- پشتیبانی از اجرای برنامه در پس‌زمینه.
-- اضافه شدن دستور بومی **keytool**.
-- جایگزینی هایلایت کد با نسخه‌های رسمی و جدید.
+### ✨ ویژگی‌ها و بهبودهای جدید
+- پشتیبانی از اجرای در پس‌زمینه.
+- یکپارچه‌سازی بومی (Native) با `keytool`.
+- بافت‌های (Textures) جدید و رسمی برای برجسته‌سازی نحو (Syntax Highlighting).
 
-### 🐞 رفع اشکال
-- بهبود سازگاری با Android 14 و نسخه‌های جدیدتر.
-- بهینه‌سازی مدیریت حافظه.
+### 🐞 رفع اشکالات
+- بهبود سازگاری با اندروید ۱۴ و بالاتر.
+- مدیریت بهتر حافظه.
 
-### 📦 فایل برنامه
+### 📦 فایل نصبی (Asset)
 - `Gradle-Build-Tool-Edited-v1.0.apk`
 
 ## 📥 نحوه استفاده
-1. فایل APK را دانلود کنید.
-2. برنامه را نصب کنید.
-3. برنامه را اجرا کنید.
-4. پروژه Gradle خود را باز یا ایجاد کنید.
-5. عملیات Build را آغاز کنید.
-
-</details>
-### 🐞 Bug Fixes
-- Fixed minor compatibility issues with Android 14+ devices.
-- Improved memory management for large projects.
-
-### 📦 Assets
-- `Gradle-Build-Tool-Edited-v1.0.apk`
+۱. فایل APK را دانلود کنید.
+۲. برنامه را نصب کنید.
+۳. برنامه را اجرا کنید.
+۴. پروژه Gradle خود را باز کنید یا یک پروژه جدید بسازید.
+۵.`Gradle-Build-Tool-Edited-v1.0.apk`
 
 </details>
