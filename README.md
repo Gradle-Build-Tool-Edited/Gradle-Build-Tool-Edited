@@ -6,14 +6,54 @@
 ## 🚀 What's New in v1.0
 
 ### 🔧 Core Upgrades
-- **Java Runtime:** Upgraded from Java 21 to **Java 25** (fully compatible with latest language features).
-- **Gradle Version:** Bumped from `9.3.2` to `9.7.0-rc-1` (release candidate with improved build performance).
+- **Java Runtime:** Upgraded from Java 21 to **Java 25**.
+- **Gradle Version:** Updated from `9.3.2` to `9.7.0-rc-1`.
 
 ### ✨ New Features & Improvements
-- **Background Execution:** The tool now continues running in the background when the app is opened or minimized (no interruption during long builds).
-- **Native Keytool Integration:** Added a dedicated `keytool` command in the bash interface to support Java 25's new security and certificate management features.
-- **Syntax Highlighting Upgrade:** Replaced legacy language syntax textures with **new official textures** for better readability and modern IDE-style look.
+- Background execution support.
+- Native `keytool` integration.
+- New official syntax highlighting textures.
 
+### 🐞 Bug Fixes
+- Android 14+ compatibility improvements.
+- Better memory management.
+
+### 📦 Asset
+- `Gradle-Build-Tool-Edited-v1.0.apk`
+
+</details>
+
+---
+
+<details>
+<summary><strong>🇮🇷 فارسی</strong></summary>
+
+## 🚀 تغییرات نسخه ۱.۰
+
+### 🔧 ارتقاهای اصلی
+- **Java Runtime** از نسخه **۲۱** به **۲۵** ارتقا یافت.
+- **Gradle** از نسخه `9.3.2` به `9.7.0-rc-1` ارتقا یافت.
+
+### ✨ قابلیت‌ها و بهبودهای جدید
+- پشتیبانی از اجرای برنامه در پس‌زمینه.
+- اضافه شدن دستور بومی **keytool**.
+- جایگزینی هایلایت کد با نسخه‌های رسمی و جدید.
+
+### 🐞 رفع اشکال
+- بهبود سازگاری با Android 14 و نسخه‌های جدیدتر.
+- بهینه‌سازی مدیریت حافظه.
+
+### 📦 فایل برنامه
+- `Gradle-Build-Tool-Edited-v1.0.apk`
+
+## 📥 نحوه استفاده
+1. فایل APK را دانلود کنید.
+2. برنامه را نصب کنید.
+3. برنامه را اجرا کنید.
+4. پروژه Gradle خود را باز یا ایجاد کنید.
+5. عملیات Build را آغاز کنید.
+
+</details>
 ### 🐞 Bug Fixes
 - Fixed minor compatibility issues with Android 14+ devices.
 - Improved memory management for large projects.
