@@ -26,6 +26,13 @@
 ### 📦 Asset
 - `Gradle-Build-Tool-Edited-v1.0.apk`
 
+- ## 📥 Usage
+1. Download the APK file.
+2. Install the app.
+3. Launch the app.
+4. Open or create your Gradle project.
+5. Start the build process.
+
 </details>
 
 ---
