@@ -7,7 +7,7 @@
 <details>
 <summary><strong>🇮🇷 فارسی</strong></summary>
 
-## Edited Edited **چه تقیراتی شده است**
+## jstudio Edited **چه تقیراتی شده است**
 
 
 
