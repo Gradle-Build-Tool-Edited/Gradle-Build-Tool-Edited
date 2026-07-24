@@ -1,37 +1,59 @@
-<!-- تب‌ها -->
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <button onclick="document.getElementById('en').style.display='block'; document.getElementById('fa').style.display='none';" style="padding: 8px 16px; background: #0366d6; color: white; border: none; border-radius: 4px; cursor: pointer;">🇬🇧 English</button>
-  <button onclick="document.getElementById('fa').style.display='block'; document.getElementById('en').style.display='none';" style="padding: 8px 16px; background: #0366d6; color: white; border: none; border-radius: 4px; cursor: pointer;">🇮🇷 فارسی</button>
-</div>
+# Gradle Build Tool
 
-<!-- محتوای انگلیسی -->
-<div id="en" style="display: block;">
-  <h2>🚀 What's New in v1.0</h2>
-  <h3>🔧 Core Upgrades</h3>
-  <ul>
-    <li><strong>Java:</strong> Upgraded from 21 to <strong>25</strong></li>
-    <li><strong>Gradle:</strong> Bumped from <code>9.3.2</code> to <code>9.7.0-rc-1</code></li>
-  </ul>
-  <h3>✨ New Features</h3>
-  <ul>
-    <li>Background execution when app opens</li>
-    <li>Added <code>keytool</code> command for Java 25</li>
-    <li>Updated syntax textures to official new ones</li>
-  </ul>
-</div>
+<details open>
+<summary><strong>🇬🇧 English</strong></summary>
 
-<!-- محتوای فارسی -->
-<div id="fa" style="display: none;">
-  <h2>🚀 تغییرات نسخه ۱.۰</h2>
-  <h3>🔧 ارتقاء هسته</h3>
-  <ul>
-    <li><strong>جاوا:</strong> از نسخه ۲۱ به <strong>۲۵</strong></li>
-    <li><strong>گریدل:</strong> از <code>9.3.2</code> به <code>9.7.0-rc-1</code></li>
-  </ul>
-  <h3>✨ ویژگی‌های جدید</h3>
-  <ul>
-    <li>اجرای برنامه در پس‌زمینه</li>
-    <li>اضافه شدن دستور <code>keytool</code> برای جاوا ۲۵</li>
-    <li>تکسچر جدید زبان‌های برنامه‌نویسی</li>
-  </ul>
-</div>
+## 🚀 What's New in v1.0
+
+### 🔧 Core Upgrades
+- **Java Runtime:** Upgraded from Java 21 to **Java 25** (fully compatible with latest language features).
+- **Gradle Version:** Bumped from `9.3.2` to `9.7.0-rc-1` (release candidate with improved build performance).
+
+### ✨ New Features & Improvements
+- **Background Execution:** The tool now continues running in the background when the app is opened or minimized (no interruption during long builds).
+- **Native Keytool Integration:** Added a dedicated `keytool` command in the bash interface to support Java 25's new security and certificate management features.
+- **Syntax Highlighting Upgrade:** Replaced legacy language syntax textures with **new official textures** for better readability and modern IDE-style look.
+
+### 🐞 Bug Fixes
+- Fixed minor compatibility issues with Android 14+ devices.
+- Improved memory management for large projects.
+
+### 📦 Assets
+- `Gradle-Build-Tool-Edited-v1.0.apk`
+
+</details>
+
+---
+
+<details>
+<summary><strong>🇮🇷 فارسی</strong></summary>
+
+## 🚀 تغییرات نسخه ۱.۰
+
+### 🔧 ارتقاء هسته
+- **Java:** از نسخه ۲۱ به **۲۵** ارتقا یافت (پشتیبانی کامل از جدیدترین قابلیت‌های زبان جاوا).
+- **Gradle:** نسخه از `9.3.2` به `9.7.0-rc-1` (نسخه پیش‌انتشار با عملکرد بهتر در کامپایل) ارتقا پیدا کرد.
+
+### ✨ ویژگی‌های جدید
+- **اجرای پس‌زمینه:** برنامه هنگام باز شدن، در پس‌زمینه فعال می‌ماند و عملیات طولانی قطع نمی‌شود.
+- **اضافه شدن دستور keytool:** یک دستور بومی در محیط bash اضافه شد تا از قابلیت‌های امنیتی جدید جاوا ۲۵ استفاده کنید.
+- **تکسچر جدید زبان‌ها:** تکسچرهای قدیمی زبان‌های برنامه‌نویسی با **نسخه‌های رسمی و جدید** جایگزین شدند (ظاهر حرفه‌ای‌تر و خواناتر).
+
+### 🐞 رفع باگ‌ها
+- رفع مشکلات سازگاری با اندروید ۱۴ و بالاتر.
+- بهینه‌سازی مدیریت حافظه برای پروژه‌های بزرگ.
+
+### 📦 فایل‌ها
+- `Gradle-Build-Tool-Edited-v1.0.apk`
+
+
+1. فایل `Gradle_Build_Tool.apk` را دانلود کنید.
+2. برنامه را نصب کنید.
+3. برنامه را اجرا کنید.
+4. محیط توسعه را تنظیم کنید.
+5. پروژه Gradle خود را باز کرده یا ایجاد کنید و عملیات Build را آغاز نمایید.
+
+
+
+
+</details>
