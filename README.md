@@ -1,4 +1,4 @@
-# Gradle Build Tool
+# jstudio
 
 <details open>
 <summary><strong>🇬🇧 English</strong></summary>
