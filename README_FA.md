@@ -7,7 +7,7 @@
 <details>
 <summary><strong>🇮🇷 فارسی</strong></summary>
 
-## Edited Edited **چه تقیراتی شده فایله استفاده**
+## Edited Edited **چه تقیراتی شده است**
 
 
 
