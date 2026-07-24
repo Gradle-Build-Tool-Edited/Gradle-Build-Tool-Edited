@@ -35,6 +35,3 @@
 5. عملیات Build را آغاز کنید.
 
 </details>)
-- `Gradle-Build-Tool-Edited-v1.0.apk`
-
-</details>
